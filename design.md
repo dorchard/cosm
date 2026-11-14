@@ -1,6 +1,7 @@
-# Challenge-Oriented Systems Model Framework - cosmF
+# Challenge-Oriented Systems Model Framework - cosm
 
-The key principles of cosmF are that it is:
+The key principles of cosm are that it is:
+- Human-centric
 - Transparency
 - Auditability
 - Verification
